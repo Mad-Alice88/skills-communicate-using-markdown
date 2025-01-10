@@ -17,13 +17,13 @@
 
 Example 1
 
-...
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-reporisotry/.git/
-...
+```
 
 Example 2
 
-... javascript
+``` javascript
 var myVar = "Hello, world!";
-...
+```
